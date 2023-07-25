@@ -1,5 +1,7 @@
 # Promptopia - Share Your Thoughts with the World!
 
+[DEMO LINK](https://promptopia-mauve-theta.vercel.app/)
+
 Welcome to Promptopia, a tool where you can sign up and share your thoughts with the world! This project is built using React, Next.js, and MongoDB, providing a seamless and user-friendly experience for both writers and readers.
 
 ## Table of Contents
@@ -30,7 +32,7 @@ cd promptopia
 npm install
 ```
 
-3. Create a `.env.local` file in the root directory of the project and provide the MongoDB connection string. For example:
+3. Create a `.env` file in the root directory of the project and provide the MongoDB connection string. For example:
 
 ```
 GOOGLE_ID=your-google-id
