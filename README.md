@@ -6,16 +6,12 @@ Welcome to Promptopia, a tool where you can sign up and share your thoughts with
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
 - [Technologies](#technologies)
 - [CRUD Operations](#crud-operations)
 
-## Getting Started
-
-Follow the steps below to set up Promptopia on your local machine.
 
 ### Installation
 
