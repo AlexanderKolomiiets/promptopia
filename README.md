@@ -32,14 +32,6 @@ cd promptopia
 npm install
 ```
 
-3. Create a `.env` file in the root directory of the project and provide the MongoDB connection string. For example:
-
-```
-GOOGLE_ID=your-google-id
-GOOGLE_CLIENT_SECRET=your-google-secret
-MONGODB_URI=your-mongodb-connection-string
-```
-
 ## Usage
 
 To start the development server, run the following command:
