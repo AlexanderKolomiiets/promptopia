@@ -1,6 +1,6 @@
 # Promptopia - Share Your Thoughts with the World!
 
-[DEMO LINK](https://promptopia-c64uvfybs-alexanderkolomiiets.vercel.app/)
+[DEMO LINK](https://promptopia-oaz7zm42f-alexanderkolomiiets.vercel.app/)
 
 Welcome to Promptopia, a tool where you can sign up and share your thoughts with the world! This project is built using React, Next.js, and MongoDB, providing a seamless and user-friendly experience for both writers and readers.
 
